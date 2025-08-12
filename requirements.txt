@@ -1,0 +1,39 @@
+# Computer Vision and Machine Learning
+opencv-python==4.8.1.78
+mediapipe==0.10.21
+tensorflow==2.15.0
+numpy==1.24.3
+scikit-learn==1.3.2
+
+# Image Processing
+Pillow==10.1.0
+
+# Text Processing and NLP
+transformers==4.36.0
+torch==2.1.1
+nltk==3.8.1
+
+# Speech Synthesis
+pyttsx3==2.90
+gTTS==2.4.0
+pygame==2.5.2
+
+# Malayalam Language Processing
+indic-transliteration==2.3.45
+
+# GUI Framework
+tkinter-modernui==1.0.0
+customtkinter==5.2.0
+
+# Data Handling
+pandas==2.1.4
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Web Framework (for API)
+flask==3.0.0
+flask-cors==4.0.0
+
+# Utilities
+python-dotenv==1.0.0
+pathlib==1.0.1
